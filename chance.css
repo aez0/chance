@@ -7,7 +7,7 @@ body, html {
 /* The hero image */
 .hero-image {
     /* The image used */
-    background-image: url("photographer.jpg");
+    background-image: url("https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg");
 
     /* Set a specific height */
     height: 50%;
